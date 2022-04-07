@@ -1,4 +1,7 @@
 # FlightGear
+
+Explanatory video about the project https://www.youtube.com/watch?v=8xyjHrCqjSQ&feature=youtu.be
+
 FlightGear Simulator
 
 1. First run the runServer.bat file.
